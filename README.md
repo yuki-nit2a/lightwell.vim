@@ -3,6 +3,7 @@ Lightwell is colorscheme for Vim.
 
 ## Screenshot
 ![Preview](https://raw.githubusercontent.com/yuki-nit2a/lightwell.vim/master/preview.png)
+
 btw the font in above pic called ["Tamsyn"](http://www.fial.com/~scott/tamsyn-font/) is very cool enough recommended :sunglasses:
 
 ## Install
